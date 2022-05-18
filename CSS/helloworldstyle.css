@@ -1,0 +1,44 @@
+body{
+    background-color: white;
+}
+.div1{
+    background-color: rgb(138, 130, 130);
+    padding: 10px;
+}
+#navbar{
+    font-size: larger;
+    color: white;
+}
+a{
+    margin-left: 50px;
+    text-decoration: none;
+}
+#hrefhome{
+    color: white;
+}
+#hreflink{
+    color: rgb(61, 60, 60);
+}
+#hrefdisabled{
+    color: rgb(41, 39, 39);
+}
+.dd{
+    margin-left: 50px;
+    color: rgb(46, 44, 44);
+}
+#ph{
+    margin-left: 480px;
+    resize: vertical;
+    height: 25px;
+    width: 175px;
+}
+#but{
+    border-color: green;
+    color: green;
+    background-color: gray;
+}
+.hw{
+    background-color: antiquewhite;
+    height: 300px;
+    
+}

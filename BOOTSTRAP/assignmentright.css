@@ -1,0 +1,37 @@
+#r1{
+    font-family: monospace;
+    font-size: xx-large;
+    padding-bottom: 1%;
+    border-bottom: solid;
+    border-color: whitesmoke;
+    border-width: 5px;
+    margin-left: -10px;
+    margin-top: 10px;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    border-radius: 10%;
+}
+.a{
+    margin-left: 50px;
+    text-decoration: none;
+    color: black;
+}
+.topleft{
+    position: absolute;
+    color: aliceblue;
+    background-color: black;
+}
+#img{
+    width: 300px;
+    height: 280px;
+    border-radius: 10%;
+}
+#projects{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: x-large;
+    border-width: 5px;
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
